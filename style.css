@@ -141,26 +141,8 @@ button {
     font-size: 16px;
     cursor: pointer;
     border-radius: 40px;
-    margin-left: 10px; /* 버튼 사이의 간격을 조정 */
 }
 
-/* 라디오 버튼 스타일링 */
-input[type="radio"] {
-    margin-right: 5px;
-    appearance: none;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    width: 20px;
-    height: 20px;
-    border-radius: 50%;
-    border: 2px solid #4e085f;
-    outline: none;
-    cursor: pointer;
-}
-
-input[type="radio"]:checked {
-    background-color: #4e085f;
-}
 
 .creater-name {
     margin-top: 100px;
